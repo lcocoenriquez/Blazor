@@ -514,6 +514,26 @@
 
 
 
+## 42. Application to Invoke ChatGPT-4o Artificial Intelligence Services
+
+### 42.1. Introduction to ChatGPT OpenAI
+
+### 42.2. How to create ASP.NET Core Web API to invoke ChatGPT-4o (Part 1)
+
+
+### 42.3. How to create ASP.NET Core Web API to invoke ChatGPT-4o (Part 2)
+
+### 42.4. How to create Blazor App for invoking ChatGPT-4o API (Part 1)
+
+### 42.5. How to create Blazor App for invoking ChatGPT-4o API (Part 2)
+
+## 43. Blazing Pizza Application
+
+https://github.com/dotnet-presentations/blazor-workshop
+
+## 44. 
+
+
 
 
 
