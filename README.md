@@ -379,7 +379,16 @@
 
 
 
-### 36.6.
+### 36.6. Blazor and Message Brokers (RabbitMQ, Kafka, Azure Service Bus, etc.)
+
+### 36.7. Connecting Blazor with Databases Hosted in Azure
+
+### 36.8. Connecting Blazor with Databases Hosted in AWS
+
+
+
+### 36.9. Connecting Blazor with Databases Hosted in Google Cloud Services
+
 
 
 
