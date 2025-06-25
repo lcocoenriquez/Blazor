@@ -32,6 +32,49 @@
 ## 8. How to create your Github repo in JetBrains Rider for your first Blazor application.
 
 
+## 9. Blazor application Files and Folders structure 
+
+
+## 10. Blazor application flow explained
+
+## 11. How to create your first component with Blazor and Visual Studio 2022
+
+
+## 12. How to create your first component with Blazor and VSCode
+
+
+## 13. How to create your first component with Blazor and JetBrains Rider
+
+
+## 14. OneWay Data Binding
+
+
+
+## 15. TwoWays Data Binding
+
+
+
+## 16. Flow control (conditional rendering, mutiple conditions and loops)
+
+
+## 17. Events Handling
+
+
+
+## 18. Events Delegation
+
+
+
+## 19. HTML Elements in Blazor
+
+
+
+## 20. 
+
+
+
+
+
 
 
 
