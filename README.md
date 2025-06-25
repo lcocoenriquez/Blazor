@@ -705,9 +705,21 @@ https://github.com/dotnet/eShopSupport
 
 ### 59.4. Step 3 (Back-End): .NET 10 Web API with CRUD Operations on PostgreSQL
 
-### 59.5.
+### 59.5. Step 4 (Front-End): Blazor Web App Named StaffWebUI
 
-### 59.6.
+### 59.6. Step 5 (Aspire .NET 9.1): Add the AppHost and ServiceDefaults Projects
+
+### 59.7. Step 6: Develop the PythonInference Project
+
+### 59.8. Step 7: Develop the CustomerWebUI Project
+
+### 59.9. Step 8: Add Authentication and Authorization (Identity Server)
+
+### 59.10. Step 9: Develop the Artificial Intelligence Capabilities of the Backend"
+
+### 59.11. Step 10: Run and Validate the Application
+
+
 
 
 
