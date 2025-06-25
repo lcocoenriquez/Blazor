@@ -29,7 +29,9 @@
 ## 7. How to create your first Blazor application with JetBrains Rider and .NET 10
 
 
-## 8. How to create your Github repo in JetBrains Rider for your first Blazor application.-
+## 8. How to create your Github repo in JetBrains Rider for your first Blazor application.
+
+
 
 
 
