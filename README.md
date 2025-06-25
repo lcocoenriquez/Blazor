@@ -108,10 +108,23 @@
 ## 29. Sending Named Parameters in Cascade
 
 
+## 30. Routing in Blazor
+
+
+### 30.1. Routing configuration in a Blazor Application
+
+
+### 30.2. Basic Features of Component Routes
+ 
+
+### 30.3. Passing Parameters in a Route
 
 
 
-## 26. 
+### 30.4. 
+
+
+
 
 
 
