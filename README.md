@@ -663,7 +663,36 @@ https://learn.microsoft.com/en-us/aspnet/core/release-notes/aspnetcore-10.0?view
 ### 55.9. Aspire .NET 9.3 Blazor WebAssembly App Connected to a SQL Server Microservice
 
 
-## 56. 
+## 56. MAUI Blazor Hybrid applications
+
+### 56.1. .NET MAUI Blazor Application (Explanation of Folder and File Structure)
+
+### 56.2. How to Debug Your .NET MAUI Blazor Application by Connecting Your Mobile Device to Your Computer
+
+### 56.3. .NET MAUI Blazor Hybrid and Web App (Explanation of Structure)
+
+## 57. Comparison of Blazor with JavaScript Development Frameworks
+
+### 57.1. Comparison of Blazor with Angular
+
+### 57.2. Comparison of Blazor with React
+
+## 58. Integrating Blazor with Azure OpenAI, Semantic Kernel, and Microsoft.Extensions.AI to Build Intelligent Applications
+
+### 58.1. Introduction to Microsoft Semantic Kernel
+
+### 58.2. Deploy an AI Model with Azure OpenAI and Consume the Service from C#
+
+### 58.3. Blazor Web App to Invoke ChatGPT and Ollama Services with Semantic Kernel
+
+### 58.4. Blazor Web App to Describe an Image with Azure OpenAI (ChatGPT-4o)
+
+### 58.5. Blazor Web App to Generate an Image with Azure OpenAI (DALL-E)
+
+### 58.6. Blazor Web App to Convert Text to Speech with Azure OpenAI (TTS)
+
+### 58.7. Blazor Web App to Convert Speech to Text with Azure OpenAI (Whisper)
+
 
 
 
