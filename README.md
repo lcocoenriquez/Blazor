@@ -267,6 +267,19 @@
 
 
 
+### 32.11. Calculate a Route Between Two Locations in Google Maps in a MAUI Blazor Application
+
+
+
+
+### 32.12. Show the Street View in Google Maps in a MAUI Blazor Application
+
+
+
+### 32.13. How to Play a YouTube Video in Your Blazor Application
+
+
+
 
 
 
