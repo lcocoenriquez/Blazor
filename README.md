@@ -220,6 +220,55 @@
 
 
 
+## 32. Blazor and JavaScript
+
+### 32.1. InvokeVoidAsync
+
+
+
+### 32.2. InvokeAsync
+
+
+
+
+### 32.3. Toastr
+
+
+
+### 32.4. SweetAlert2
+
+
+
+
+### 32.5. Extension Methods for the IJSRuntime Interface
+
+
+
+
+### 32.6. Reference Between Components
+
+
+
+
+
+### 32.7. Google Maps integration in your Blazor Web App
+
+
+
+### 32.8. Google Maps Geolocation in your Blazor Web App
+
+
+
+### 32.9. Google Maps integration in your MAUI Blazor Hybrid application
+
+
+
+### 32.10.
+
+
+
+
+
 
 
 ## Additional Documentation
