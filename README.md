@@ -391,6 +391,35 @@
 
 
 
+## 37. Invoking Cloud Code (Serverless Functions) from a Blazor Application
+
+### 37.1. How to Program My First Azure Function with VSCode
+
+### 37.2. How to Program My First Azure Function with Visual Studio 2022
+
+### 37.3. How to Program My First Azure Function from the Azure Portal
+
+
+### 37.4. Azure Function to Perform CRUD Operations in Azure Cosmos DB
+
+
+### 37.5. Invoking Azure Function from Blazor WebAssemblly
+
+
+### 37.6. invoking Azure Function from Blazor Web App
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
