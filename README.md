@@ -564,10 +564,21 @@ https://github.com/dotnet-presentations/blazor-workshop
 
 ### 45.3. How to add Radzen Components in your MAUI Blazor Hybrid App
 
-## 46. 
+## 47. Blazorise Components
 
+### 47.1. How to add Blazorise Components in your Blazor Web App
 
+### 47.2. How to add Blazorise Components in your Blazor WebAssembly App
 
+### 47.3. How to add Blazorise Components in your MAUI Blazor Hybrid App
+
+## 48. MudBlazor Components
+
+### 48.1. How to add MudBlazor Components in your Blazor Web App
+
+### 48.2. How to add MudBlazor Components in your Blazor WebAssembly App
+
+### 48.3. How to add MudBlazor Components in your MAUI Blazor Hybrid App
 
 
 
