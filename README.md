@@ -105,7 +105,7 @@
 ## 28. Sending Parameters in Cascade Between Nested Components
 
 
-## 29. 
+## 29. Sending Named Parameters in Cascade
 
 
 
