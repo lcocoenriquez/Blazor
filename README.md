@@ -588,27 +588,47 @@ https://github.com/dotnet-presentations/blazor-workshop
 
 ### 49.3. How to add BlazorBootstrap Components in your MAUI Blazor Hybrid App
 
-## 50. BlazorBootstrap Components
+## 50. Telerik Components
 
-### 50.1. How to add BlazorBootstrap Components in your Blazor Web App
+### 50.1. How to add Telerik Components in your Blazor Web App
 
-### 50.2. How to add BlazorBootstrap Components in your Blazor WebAssembly App
+### 50.2. How to add Telerik Components in your Blazor WebAssembly App
 
-### 50.3. How to add BlazorBootstrap Components in your MAUI Blazor Hybrid App
+### 50.3. How to add Telerik Components in your MAUI Blazor Hybrid App
 
-## 51. Telerik Components
+## 51. SyncFusion Components
 
-### 51.1. How to add BlazorBootstrap Components in your Blazor Web App
+### 51.1. How to add SyncFusion Components in your Blazor Web App
 
-### 51.2. How to add BlazorBootstrap Components in your Blazor WebAssembly App
+### 51.2. How to add SyncFusion Components in your Blazor WebAssembly App
 
-### 51.3. How to add BlazorBootstrap Components in your MAUI Blazor Hybrid App
+### 51.3. How to add SyncFusion Components in your MAUI Blazor Hybrid App
 
+## 52. Unit Tests in Blazor (MSTest, xUnit, NUnit, y bUnit)
 
+### 52.1. Unit Testing Blazor Applications with MSTest
 
+### 52.2. Unit Testing Blazor Applications with xUnit
 
+### 52.3. Unit Testing Blazor Applications with NUnit
 
+### 52.4. Unit Testing Blazor Applications with bUnit
 
+## 53. How to Deploy Your Blazor Application to the Cloud (Azure, AWS, and Google Cloud)
+
+### 53.1. Deploy your Blazor App with Azure Web App service
+
+### 53.2. Deploy your Blazor App in Azure (ACR, ACI, AKS, Container, Blob)
+
+### 53.3. Deploy your Blazor App in AWS (S3, ECR, ECS, EKS)
+
+### 53.4. Blazor deployment in Google Cloud Services
+
+### 53.5. Blazor deployment with Github Actions
+
+### 53.6. Blazor deployment with Docker and Kubernetes in local laptop
+
+### 53.7. Blazor deployment with Azure DevOps
 
 
 
