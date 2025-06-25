@@ -531,18 +531,18 @@
 
 https://github.com/dotnet-presentations/blazor-workshop
 
-### 43.1. Introducción a la aplicación Blazing Pizza
+### 43.1. Blazing Pizza application introduction
 
 
-### 43.2. Arquitectura básica de la aplicación Blazing Pizza
+### 43.2. Basic architecture for Blazing Pizza
 
 
-### 43.3. Arquitectura de Blazing Pizza con .NET8 y .NET9
+### 43.3. Blazing Pizza architecture with .NET8 y .NET9
 
 
-### 43.4. Cargar paquetes NUGET y Referencias a Proyectos
+### 43.4. How to load the NUGET Packages and Projects References
 
-### 43.5. Configurar componentes compartidos de Blazing Pizza
+### 43.5. How to configure Shared Components
 
 ### 43.6. 
 
