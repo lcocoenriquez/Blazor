@@ -544,13 +544,29 @@ https://github.com/dotnet-presentations/blazor-workshop
 
 ### 43.5. How to configure Shared Components
 
-### 43.6. 
+### 43.6. Configure the Project on the Server Side
+
+### 43.7. Configure the Project on the Client Side
+
+## 44. BootStrap 5 Components
+
+### 44.1. How to add BootStrap 5 Components in your Blazor Web App
+
+### 44.2. How to add BootStrap 5 Components in your Blazor WebAssembly App
+
+### 44.3. How to add BootStrap 5 Components in your MAUI Blazor Hybrid App
+
+## 45. Radzen Components
+
+### 45.1. How to add Radzen Components in your Blazor Web App
+
+### 45.2. How to add Radzen Components in your Blazor WebAssembly App
+
+### 45.3. How to add Radzen Components in your MAUI Blazor Hybrid App
+
+## 46. 
 
 
-
-
-
-## 44. 
 
 
 
