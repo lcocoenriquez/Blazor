@@ -69,7 +69,18 @@
 
 
 
-## 20. 
+## 20. Dependency Injection 
+
+
+
+## 21. Shared Components
+
+
+
+## 22. Sending parameters to a Shared Component
+
+
+
 
 
 
