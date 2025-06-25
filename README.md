@@ -354,10 +354,32 @@
 ### 35.6. Project Template: Blazor Server App Empty
 
 
+## 36. Blazor Data Access
+
+
+
+### 36.1. How to Create a Blazor Web App Connected to SQL Server
+
+
+
+### 36.2. How to Create a Blazor Web App Connected to MongoDB 
+
+
+
+### 36.3. How to Create a Blazor Web App (with Minimal APIs) Connected to MySQL
+
+
+
+### 36.4. How to create a Blazor Web App with Dapper and connected to SQL Server
 
 
 
 
+### 36.5. How to create a Blazor WebAssembly connected to Microservicio CRUD Azure-SQL
+
+
+
+### 36.6.
 
 
 
