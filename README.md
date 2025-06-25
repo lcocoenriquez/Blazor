@@ -427,6 +427,24 @@
 ### 37.12. Invoking Google Cloud Functions from a Blazor WebAssembly Application
 
 
+## 38. Interacting with Azure Cloud Services from a Blazor Application
+
+
+### 38.1. Azure SDK for .NET
+
+### 38.2. How to create an Azure Free Account
+
+
+### 38.3. How to install Azure CLI and how to configure your Azure Account
+
+
+### 38.4. How to create an Azure Resource Group from your Blazor App
+
+
+
+
+
+
 
 
 
