@@ -693,21 +693,21 @@ https://learn.microsoft.com/en-us/aspnet/core/release-notes/aspnetcore-10.0?view
 
 ### 58.7. Blazor Web App to Convert Speech to Text with Azure OpenAI (Whisper)
 
+## 59. Developing eShopSupport with Blazor, Aspire .NET 9.1, and Artificial Intelligence
 
+https://github.com/dotnet/eShopSupport
 
+### 59.1. Introduction to the eShopSupport Application
 
+### 59.2. Step 1: Develop the Data Generator (DataGenerator)
 
+### 59.3. Step 2: Develop the Data Consumer (DataIngestor)
 
+### 59.4. Step 3 (Back-End): .NET 10 Web API with CRUD Operations on PostgreSQL
 
+### 59.5.
 
-
-
-
-
-
-
-
-
+### 59.6.
 
 
 
@@ -716,10 +716,4 @@ https://learn.microsoft.com/en-us/aspnet/core/release-notes/aspnetcore-10.0?view
 https://learn.microsoft.com/en-us/aspnet/core/blazor/?view=aspnetcore-10.0
 
 https://learn.microsoft.com/en-us/training/paths/build-web-apps-with-blazor/
-
-
-
-
-
-
 
