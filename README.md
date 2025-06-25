@@ -580,8 +580,29 @@ https://github.com/dotnet-presentations/blazor-workshop
 
 ### 48.3. How to add MudBlazor Components in your MAUI Blazor Hybrid App
 
+## 49. BlazorBootstrap Components
 
+### 49.1. How to add BlazorBootstrap Components in your Blazor Web App
 
+### 49.2. How to add BlazorBootstrap Components in your Blazor WebAssembly App
+
+### 49.3. How to add BlazorBootstrap Components in your MAUI Blazor Hybrid App
+
+## 50. BlazorBootstrap Components
+
+### 50.1. How to add BlazorBootstrap Components in your Blazor Web App
+
+### 50.2. How to add BlazorBootstrap Components in your Blazor WebAssembly App
+
+### 50.3. How to add BlazorBootstrap Components in your MAUI Blazor Hybrid App
+
+## 51. Telerik Components
+
+### 51.1. How to add BlazorBootstrap Components in your Blazor Web App
+
+### 51.2. How to add BlazorBootstrap Components in your Blazor WebAssembly App
+
+### 51.3. How to add BlazorBootstrap Components in your MAUI Blazor Hybrid App
 
 
 
