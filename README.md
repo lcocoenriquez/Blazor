@@ -657,6 +657,12 @@ https://learn.microsoft.com/en-us/aspnet/core/release-notes/aspnetcore-10.0?view
 ### 55.7. Project Template: .NET Aspire Test Project (xUnit)
 
 
+### 55.8. Aspire .NET 9.3 Blazor WebAssembly App Connected to an Azure-SQL Microservice
+
+
+### 55.9. Aspire .NET 9.3 Blazor WebAssembly App Connected to a SQL Server Microservice
+
+
 ## 56. 
 
 
