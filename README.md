@@ -441,6 +441,40 @@
 ### 38.4. How to create an Azure Resource Group from your Blazor App
 
 
+## 39. Interacting with AWS Cloud Services from a Blazor Application
+
+
+### 39.1. How to create  AWS Free Tier Account
+
+
+### 39.2. How to create a New User with Administrator priviledges
+
+
+### 39.3. How to install AWS CLI and how to configure your AWS Account
+
+
+### 39.4. How to create AWS S3 Bucket from your Blazor App
+
+
+### 39.5. How to list AWS S3 Buckets in your AWS Account from your Blazor App
+
+
+### 39.6. How to Upload files to AWS S3 Bucket from your Blazor App 
+
+
+### 39.7. CRUD operations in your AWS S3 Buckets from your Blazor App
+
+
+### 39.8. How to create and list AWS DynamoDb Tables from your Blazor App
+
+
+### 39.9. CRUD operation in your AWS DynamoDb Tables from your Blazor App
+
+
+## 40. 
+
+
+
 
 
 
