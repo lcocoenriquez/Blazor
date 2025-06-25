@@ -332,20 +332,26 @@
 ## 35. Blazor Templates in Visual Studio 2022
 
 
-### 35.1. 
+### 35.1. Introduction to Project Templates in Visual Studio and in the .NET CLI
 
 
 
-### 35.2. 
+### 35.2. Project Template: Blazor Web App
 
 
 
-### 35.3. 
+### 35.3. Project Template: Blazor WebAssembly Standalone App
+
+
+### 35.4. Project Template: Blazor WebAssembly App Empty
 
 
 
+### 35.5. Project Template: Blazor Server App 
 
 
+
+### 35.6. Project Template: Blazor Server App Empty
 
 
 
