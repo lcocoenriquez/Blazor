@@ -630,7 +630,34 @@ https://github.com/dotnet-presentations/blazor-workshop
 
 ### 53.7. Blazor deployment with Azure DevOps
 
+## 54. Blazor new features in .NET 10
 
+https://learn.microsoft.com/en-us/aspnet/core/release-notes/aspnetcore-10.0?view=aspnetcore-9.0
+
+## 55. Blazor and .NET 9.3 Aspire
+
+### 55.1. Project Template: .NET Aspire Starter App
+
+
+### 55.2. Project Template: .NET Aspire Empty App
+
+
+### 55.3. Project Template: .NET Aspire App Host
+
+
+### 55.4. Project Template: .NET Aspire Service Defaults 
+
+
+### 55.5. Project Template: .NET Aspire Test Project (MSTest)
+
+
+### 55.6. Project Template: .NET Aspire Test Project (NUnit)
+
+
+### 55.7. Project Template: .NET Aspire Test Project (xUnit)
+
+
+## 56. 
 
 
 
