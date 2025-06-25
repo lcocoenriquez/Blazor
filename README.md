@@ -471,8 +471,46 @@
 ### 39.9. CRUD operation in your AWS DynamoDb Tables from your Blazor App
 
 
-## 40. 
+## 40. Interacting with Google Cloud Services from a Blazor Application
 
+### 40.1. How to create a Google Cloud Services Free Account
+
+
+### 40.2. How to install gcloud CLI
+
+
+### 40.3. 
+
+
+### 40.4. 
+
+## 41. Identity (Authentication and Authorization)
+
+
+### 41.1. Introducción a la Autenticación y Autorización con Blazor
+
+### 41.2. Explicación del Middleware (archivo Program.cs)
+
+
+### 41.3. Registro de nuevo usuario en la aplicación (Sign Up)
+
+
+### 41.4. Solicitud de acceso a la aplicación (Login)
+
+
+### 41.5. Consulta y modificación de la información personal del usuario
+
+
+### 41.6. Habilitación de la autenticación multifactor (MFA)
+
+
+### 41.7. Autenticación con Facebook
+
+
+### 41.8. Autenticación con Google
+
+
+### 41.9. Autenticación con Microsoft
 
 
 
