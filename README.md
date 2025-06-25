@@ -316,6 +316,37 @@
 ### 33.6. "Dispose Function, Executed When the Component Is Removed from the User Interface
 
 
+ 
+## 34.  Forms and Validation
+
+### 34.1. Basic Form (EditForm)
+
+
+### 34.2. Basic Form with Validation
+
+
+### 34.3. Advanced Form with Styles and Validations
+
+
+
+## 35. Blazor Templates in Visual Studio 2022
+
+
+### 35.1. 
+
+
+
+### 35.2. 
+
+
+
+### 35.3. 
+
+
+
+
+
+
 
 
 
