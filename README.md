@@ -719,9 +719,7 @@ https://github.com/dotnet/eShopSupport
 
 ### 59.11. Step 10: Run and Validate the Application
 
-
-
-
+### 59.12. Step 11: Develop the Evaluation Program (Evaluator)
 
 ## Additional Documentation
 
