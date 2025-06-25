@@ -410,6 +410,23 @@
 
 
 
+### 37.7. Invoking Azure Function from MAUI Blazor App
+
+
+### 37.8. My first AWS Lambda (.Net 6 y C#)
+
+
+### 37.9. AWS Lambda Function to Create S3 Buckets (.NET 6 and C#)
+
+
+### 37.10. Invokin AWS Lambda Function from a Blazor WebAssembly Application
+
+
+### 37.11. My First Google Cloud Function for .NET
+
+### 37.12. Invoking Google Cloud Functions from a Blazor WebAssembly Application
+
+
 
 
 
