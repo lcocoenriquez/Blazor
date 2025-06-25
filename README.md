@@ -263,7 +263,16 @@
 
 
 
-### 32.10.
+### 32.10. How to Draw a Google Maps Route in Your MAUI Blazor Application
+
+
+
+
+
+
+## 33. Component LifeCycle Functions
+
+
 
 
 
