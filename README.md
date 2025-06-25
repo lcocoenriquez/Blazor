@@ -288,6 +288,51 @@
 
 
 
+### 33.1. OnInitialized Function, Executed When a Blazor Component Has Been Initialized
+
+
+
+
+### 33.2. SetParametersAsync, Invoked When Parameters Are Set or Modified
+
+
+
+
+
+### 33.3. OnParametersSet Function, Invoked After Parameters Are Set or Modified
+
+
+
+
+### 33.4. OnAfterRender Function, Invoked After a Component Is Rendered
+
+
+
+
+### 33.5. ShouldRender Function, Allows You to Control Whether the Component Should Re-Render
+
+
+
+### 33.6. "Dispose Function, Executed When the Component Is Removed from the User Interface
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
