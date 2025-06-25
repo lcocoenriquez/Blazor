@@ -182,6 +182,44 @@
 
 
 
+## 31. GoF Patterns integration in a Blazor Application
+
+
+
+### 31.1. Singleton (App state, shared services)
+
+
+
+
+
+### 31.2. Observer (Real-time UI updates on state changes)
+
+
+
+
+
+### 31.3. Factory (Dynamic component/service creation)
+
+
+
+
+
+### 31.4. Decorator (Enhance service logic (logging, caching))
+
+
+
+
+
+### 31.5. Command (Undo/Redo, encapsulating UI actions)
+
+
+
+
+
+### 31.6. Strategy (Pluggable sort/filter/search logic)
+
+
+
 
 
 ## Additional Documentation
